@@ -33,6 +33,15 @@ public class DataTypes {
 		a = 10;
 		a = ++a + a + --a - --a + a++;
 		System.out.println(a);
+		
+		
+		
+		Integer ii = 2;
+		Integer ii2 = ii; // new object created
+		ii = 3;
+		System.out.println(ii);
+		System.out.println(ii2);
+		
 	}
 
 }
