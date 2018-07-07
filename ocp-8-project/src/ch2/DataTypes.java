@@ -42,6 +42,8 @@ public class DataTypes {
 		System.out.println(ii);
 		System.out.println(ii2);
 		
+		char s = (char)ii;
+		
 	}
 
 }
